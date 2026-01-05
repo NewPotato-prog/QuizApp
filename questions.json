@@ -1,0 +1,16 @@
+[
+  {
+    "text": "How are you",
+    "type": "one_word",
+    "answer": "fine",
+    "category": "general",
+    "options": ["okay", "good", "sad"]
+  },
+  {
+    "text": "How are you",
+    "type": "one_word",
+    "answer": "fine",
+    "category": "general",
+    "options": ["okay", "good", "sad"]
+  }
+]
